@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "name": "@bookstore/infrastructure",
+  "version": "0.1.0",
+  "description": "Infrastructure for Book Store"
+}

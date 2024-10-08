@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "@bookstore/terminal",
+  "description": "Terminal app for bookstore",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "devDependencies": {
+    "tsx": "4.19.1"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "7.0.0",
+    "@inquirer/select": "4.0.0",
+    "console-table-printer": "2.12.1"
+  }
+}
